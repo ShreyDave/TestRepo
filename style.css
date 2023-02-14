@@ -7,8 +7,6 @@ body {
 }
 
 .parentmainwidth {
-    width: 100%;
-    max-width: 1040px;
     margin: auto;
 }
 
@@ -26,8 +24,6 @@ body {
     align-items: center;
     width: 320px;
     height: 613px;
-    background-color: #FFEDDC;
-    border-radius: 24px;
 }
 
 .bucketimage {
