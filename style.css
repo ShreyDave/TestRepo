@@ -104,15 +104,6 @@ body {
     cursor: pointer;
     width: 115px;
 }
-
-.cardcolorpickertext {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    width: 238px;
-    height: 223px;
-}
-
 .guide {
     background: #DBDEFF;
     display: flex;
